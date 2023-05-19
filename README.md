@@ -15,16 +15,27 @@ In summary, ExpenseTracker is a comprehensive and user-friendly expense manageme
 
 # features
 1)User-friendly interface for easy navigation and intuitive usage.
+
 2)Efficient expense recording with options to input date, category, description, and amount.
+
 3)Ability to add, edit, and delete expense entries for accurate tracking.
+
 4)Wide range of predefined expense categories for better organization.
+
 5)Customizable expense categories to tailor them to specific needs.
+
 6)Generate detailed expense reports based on specific time periods, categories, or custom filters.
+
 7)Visual representation of expense data through charts and graphs for better analysis.
+
 8)Budget management feature to set and track budget limits for different expense categories.
+
 9)Real-time notifications and alerts when approaching or exceeding budget limits.
+
 10)Secure user accounts with login credentials for individual data privacy and protection.
+
 11)Data backup and restoration functionality for safeguarding expense records.
+
 12)Suitable for personal finance management or business expense tracking purposes.
 
 
