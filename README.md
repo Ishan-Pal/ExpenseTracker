@@ -39,4 +39,8 @@ In summary, ExpenseTracker is a comprehensive and user-friendly expense manageme
 12)Suitable for personal finance management or business expense tracking purposes.
 
 
+![image](https://github.com/Ishan-Pal/ExpenseTracker/assets/130207814/d659a94b-0768-412e-9756-8af8e9d9ebd8)
+
+
+
 
